@@ -1,6 +1,8 @@
 body{
 background-size:cover;
-background-size:contain;
+-moz-background-size:contain;
+-webkit-background-size:contain;
+-o-background-size:contain;
 }
 .job{
 color:sienna;
