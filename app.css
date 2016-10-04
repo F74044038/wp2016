@@ -1,9 +1,9 @@
 body{
 background-size:cover;
-background_size:contain;
+background-size:contain;
 }
 .job{
-color:greenyellow;
+color:sienna;
 font-family:arial;
 
 }
