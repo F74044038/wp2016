@@ -4,7 +4,7 @@ $(document).ready(function(){
   $('#school').show();
   });
           
-  $('#colorr').click(function(){
+/*  $('#colorr').click(function(){
   $('#colorr').hide();
   $('#color').show();
   });
@@ -22,7 +22,7 @@ $(document).ready(function(){
   $('#maill').click(function(){
   $('#maill').hide();
   $('#mail').show();
-  });
+  });*/
                                               
    });
 
