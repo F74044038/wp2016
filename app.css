@@ -1,10 +1,11 @@
-body {
-    margin:0;
-        padding:0;
-            -moz-background-size: cover;
-                background-size: cover;
-                }
-
+body {  
+  font-size: 2em;
+    margin:auto;
+      padding:auto;
+        background: #000 url(https://c4.staticflickr.com/6/5342/17661958379_0006000941_k.jpg) center center fixed no-repeat;
+          -moz-background-size: cover;
+            background-size: cover;
+            }
 .change{
 color:yellow;
 font-family:arial;
