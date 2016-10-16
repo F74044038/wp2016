@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $('#schooll').click(function(){
-  $('#schooll').hide();
-  $('#school').show();
+  $("#schooll").click(function(){
+  $("#schooll").hide();
+  $("#school").show();
   });
           
 /*  $('#colorr').click(function(){
